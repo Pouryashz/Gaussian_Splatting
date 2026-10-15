@@ -7,7 +7,7 @@ An end-to-end 3D Gaussian Splatting pipeline for reconstructing 3D scenes from p
 
 **A Google Colab workflow for reconstructing a 3D scene from photographs**
 
-[Open the notebook](./Gaussian_Splatting_Public.ipynb) · [Original 3DGS paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+[Original 3DGS paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
 </div>
 
